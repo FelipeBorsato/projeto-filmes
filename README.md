@@ -1,9 +1,5 @@
 # Cadastro de Filmes - CRUD completo
 
-###### Frontend: Angular 8, Backend: Json-server
-
-------
-
 1. Instale as dependências do projeto com `npm install`
 
 2. Instale o json-server `npm install -g json-server`
